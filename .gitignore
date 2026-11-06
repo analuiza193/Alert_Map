@@ -1,0 +1,19 @@
+
+# Dependências
+node_modules/
+
+# Senhas e configurações privadas
+.env
+.env.*
+!.env.example
+
+# Arquivos de configuração local
+config.local.js
+database.local.js
+
+# Logs
+*.log
+
+# Arquivos temporários
+.DS_Store
+Thumbs.db
